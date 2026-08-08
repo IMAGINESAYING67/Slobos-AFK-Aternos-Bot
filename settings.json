@@ -3,10 +3,10 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "wallago.aternos.host:43016",
+    "ip": " MightNotBeReapr.aternos.me:43016",
     "port": 43016,
     "version": "",
     "try-creative": false
