@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MightNotBeReapr.aternos.me",
+    "ip": "wallago.aternos.host:43016",
     "port": 43016,
     "version": "",
     "try-creative": false
